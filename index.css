@@ -210,7 +210,7 @@ h5{
         font-size: small;
     }
     .info{
-        height: 100vh;
+        height: 90vh;
         position: absolute;
         top: 20rem;
         margin-left: 0rem;
@@ -226,7 +226,7 @@ h5{
         /* background-image: url(project1.jpg);
         background-size: contain; */
         position: relative;
-        top:39rem;
+        top:45rem;
         height: fit-content;
     }
     .pname{
@@ -234,13 +234,13 @@ h5{
     }
     .subt{
         position: relative;
-        top:39.5rem;
+        top:45rem;
         width: 100%;
         background-color: #2a2b2f;
     }
     .contact{
         position: relative;
-        margin-top: 39rem;
+        margin-top: 45rem;
         display:block;
         
     }
