@@ -192,6 +192,11 @@ h5{
         justify-content: center;
         text-align: center;
     }
+    .project-block{
+      background-size:cover;
+      height: 100vh;
+
+    }
     .myname{
         font-size: large;
     }
@@ -210,6 +215,7 @@ h5{
         top: 20rem;
         margin-left: 0rem;
     }
+    
     .im{
         position: absolute;
         top:20px;
@@ -217,8 +223,10 @@ h5{
         padding: auto;
     }
     .my-project{
+        /* background-image: url(project1.jpg);
+        background-size: contain; */
         position: relative;
-        top:38rem;
+        top:39rem;
         height: fit-content;
     }
     .pname{
@@ -226,17 +234,20 @@ h5{
     }
     .subt{
         position: relative;
-        top:38rem;
+        top:39.5rem;
+        width: 100%;
+        background-color: #2a2b2f;
     }
     .contact{
         position: relative;
-        margin-top: 43rem;
+        margin-top: 39rem;
         display:block;
         
     }
     .cm{
         position: relative;
         top:0px;
+        background: none;
     }
     .visit{
         font-size: small;
