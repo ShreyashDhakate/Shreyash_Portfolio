@@ -16,6 +16,7 @@ body {
     height: 70vh;
     animation: fadein 1s ease-in 0s 1 normal;
 }
+
 img{
     width: 70%;
     border-radius: 50%;
@@ -41,6 +42,7 @@ img{
 h5{
     animation: fadein 0.75s ease-in 0s 1 normal;
 }
+
 .myname{
     color: yellow;
     font-weight: 400;
@@ -162,6 +164,9 @@ h5{
 }  
 .b32:hover .visit {
     opacity: 1;
+}
+.cm{
+  font-size: 60px;
 }
 .contact{
     width: 60%;
